@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a PhD in coupling of energy system models at Technical University of Denmark
+- 🔭 I’m currently working on a PhD in coupling of energy system models at the Technical University of Denmark
 - 🌱 I’m currently learning front-end development <!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about energy system modelling
 - 📫 Reach me on mberos@dtu.dk
